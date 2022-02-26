@@ -1,0 +1,42 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item>
+    <!-- drawable/circle_card_icon.xml -->
+    <shape
+        android:shape="oval">
+      <size
+          android:width="53dp"
+          android:height="53dp"
+          />
+    </shape>
+  </item>
+  <item>
+<vector
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56">
+  <path
+      android:pathData="M28,26m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0"
+      android:fillColor="#4E4545"/>
+  <path
+      android:pathData="M33,18C29.6829,18 27,20.6605 27,23.95C27,28.4125 33,35 33,35C33,35 39,28.4125 39,23.95C39,20.6605 36.3171,18 33,18ZM33,25.5L31.2366,26.4271L31.5734,24.4635L30.1468,23.0729L32.1183,22.7865L33,21L33.8817,22.7865L35.8532,23.0729L34.4266,24.4635L34.7634,26.4271L33,25.5Z"
+      android:fillColor="#ffffff"
+      android:fillType="evenOdd"/>
+  <path
+      android:pathData="M21.5,23.25L21.5,29.75"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="square"/>
+  <path
+      android:pathData="M24.75,26.5L18.25,26.5"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#00000000"
+      android:strokeColor="#ffffff"
+      android:strokeLineCap="square"/>
+</vector>
+  </item>
+</layer-list>

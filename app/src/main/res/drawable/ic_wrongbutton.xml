@@ -1,0 +1,31 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item>
+    <!-- drawable/circle_card_icon.xml -->
+    <shape
+        android:shape="oval">
+      <size
+          android:width="46dp"
+          android:height="46dp"
+          />
+    </shape>
+  </item>
+  <item>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="46dp"
+    android:height="46dp"
+    android:viewportWidth="46"
+    android:viewportHeight="46">
+  <path
+      android:pathData="M23,23m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0"
+      android:strokeWidth="2"
+      android:fillColor="#ffffff"
+      android:strokeColor="#E53636"/>
+  <path
+      android:pathData="M31.5713,12.2667L23,20.838L14.4287,12.2667L12.2667,14.4287L20.838,23L12.2667,31.5713L14.4287,33.7333L23,25.162L31.5713,33.7333L33.7333,31.5713L25.162,23L33.7333,14.4287L31.5713,12.2667Z"
+      android:strokeWidth="2"
+      android:fillColor="#E53636"
+      android:strokeColor="#E53636"/>
+</vector>
+  </item>
+</layer-list>
